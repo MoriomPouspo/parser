@@ -1,0 +1,4 @@
+id,date,drname,patientname,Gender,AgeBaseline,HTNmeds,CholesterolBaseline,HistorySmoking,sBPBaseline
+1,2023-09-13,Alice,Bob,M,20,0,3.3,0,92
+2,2023-09-12,Alice,Alpaca,F,22,0,2.2,0,93
+3,2023-09-14,Bob,Spark,M,17,1,8.9,1,91
